@@ -144,3 +144,6 @@ Liste des étudiants ayant réussi ce TP
 * Baptiste LOMBARDO,
 * Robin L'HONORE.
 * Gregoire PETERSCHMITT.
+* Jean-Michel LY,
+* Baptiste LOMBARDO,
+* Mario LAPORTE.
